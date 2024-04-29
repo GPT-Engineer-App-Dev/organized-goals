@@ -1,5 +1,6 @@
 // Complete the Index page component here
 // Use chakra-ui
+import React from 'react';
 import { Box, Input, Button, List, ListItem, ListIcon, IconButton, useToast } from '@chakra-ui/react';
 import { FaTrash, FaCheckCircle, FaRegCircle } from 'react-icons/fa';
 
